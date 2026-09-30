@@ -1,0 +1,17 @@
+# Shravanth Vasisht M. — Portfolio
+
+Professional portfolio redesign for client demo.
+
+## Live demo
+
+After GitHub Pages is enabled, open the Pages URL from the repository settings.
+
+## Preview locally
+
+Open `index.html` in a browser, or from this folder:
+
+```powershell
+npx serve -l 8080
+```
+
+Then visit `http://localhost:8080`.
