@@ -4,7 +4,7 @@ Professional portfolio redesign for client demo.
 
 ## Live demo
 
-After GitHub Pages is enabled, open the Pages URL from the repository settings.
+https://booniraj-prog.github.io/shravanth-vasisht-portfolio/
 
 ## Preview locally
 
